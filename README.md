@@ -89,7 +89,7 @@ To further your learning, here are some recommended resources:
 - [JavaScript.info](https://javascript.info/) - A modern tutorial with explanations and examples.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) - A book providing an insightful overview of JavaScript.
 
-Additionally, you can follow along with Hitesh Chaudhary's "Chair aur JavaScript" playlist on his YouTube channel for more in-depth tutorials and examples. Here is the link to his playlist: [Chair aur JavaScript](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37).
+Additionally, you can follow along with **Hitesh Chaudhary's** "Chair aur JavaScript" playlist on his YouTube channel for more in-depth tutorials and examples. Here is the link to his playlist: [Chair aur JavaScript](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37).
 
 ## Conclusion
 
