@@ -27,49 +27,6 @@ console.log("Hello my name is Ankit.");
 To run this code, you can include it in a `<script>` tag in an HTML file or in a separate `.js` file that is linked to an HTML file. Then, open the HTML file in a web browser and check the browser's console to see the output.
 
 ## Series Outline
-This series will cover a range of topics, including but not limited to:
-
-- Variables and Data Types
-- Control Structures (if-else statements, loops)
-- Functions and Scope
-- Events and Event Handling
-- DOM Manipulation
-- Asynchronous JavaScript (Callbacks, Promises, Async/Await)
-- Debugging and Tools
-
-##  Resources
-To further your learning, here are some recommended resources:
-
-- [MDN Web Docs](```markdown
-# JavaScript Series
-
-Welcome to the JavaScript Series, taught by Hitesh Chaudhary under his Playlist "Chair aur JavaScript" on his YouTube channel. This series is designed to introduce you to the basics of JavaScript programming, covering various concepts through practical examples and exercises.
-
-## Introduction
-
-JavaScript is a powerful programming language that enables you to add interactive features to your websites. It is an essential skill for web developers, allowing for client-side script to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
-
-## Getting Started
-
-To get started with JavaScript, you will need a basic understanding of HTML and CSS. JavaScript code can be written directly in the HTML documents or in separate `.js` files that are linked to the HTML.
-
-### Prerequisites
-
-- Basic knowledge of HTML and CSS
-- A text editor (e.g., Visual Studio Code, Sublime Text, Atom)
-- A modern web browser (e.g., Chrome, Firefox, Safari)
-
-### Hello World Example
-
-Here is a simple example of JavaScript code that prints "Hello my name is Ankit." to the console:
-
-```javascript
-console.log("Hello my name is Ankit.");
-```
-
-To run this code, you can include it in a `<script>` tag in an HTML file or in a separate `.js` file that is linked to an HTML file. Then, open the HTML file in a web browser and check the browser's console to see the output.
-
-## Series Outline
 
 This series will cover a range of topics, including but not limited to:
 
